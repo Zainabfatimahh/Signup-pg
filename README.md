@@ -3,7 +3,6 @@ Signup Page
 A simple Signup Page project built using HTML/CSS/JavaScript to collect user information through a form and improve your front-end skills.
 
 Live demo: https://signup-pg.vercel.app
- (linked in repo)
 
 🧠 Project Overview
 
